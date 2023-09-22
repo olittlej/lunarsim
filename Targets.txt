@@ -1,0 +1,19 @@
+1) Generate Digital Elevation Model of lunar surface
+2) Rover traverse set path
+3) Show illumination of sunlight in region
+4) show orbits of communication satellite and when in sight of rover
+
+5) Implement local traverse rate as function of terrain type
+6) show data storage onboard
+7) show power generated on solar panel and battery state as function of rover attitude and solar angle
+8) show temperature profile on rover
+9) show effects of given fault rate and recovery time
+
+Control Panel:
+- Run time
+- Distance traveled
+- Data storage onboard
+- Data transfer
+- Line of sight with satellite?
+- Current battery power percentage
+- Current temperature reading
